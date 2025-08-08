@@ -8,7 +8,7 @@ Alongside my learning journey, I create educational content on my YouTube channe
 I am dedicated to continuous skill development, staying updated with the adversary tactics.
 My goal is to combine technical expertise with practical insights to help organizations detect, respond to, and prevent cyber threats effectively.
 
-####Skills: 
+#### Skills: 
 Powershell / LINUX CLI / Splunk SPL / TTPs / C2 Frameworks / Networking
 
 
